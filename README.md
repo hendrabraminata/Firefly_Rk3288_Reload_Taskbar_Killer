@@ -1,0 +1,1 @@
+Simple Android Application to remove System Bar / Taskbar for Firefly RK3288 Reload
